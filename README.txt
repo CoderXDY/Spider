@@ -1,0 +1,1 @@
+#this is spider demo for fetching dangdang.com's products list. using nodejs+mysql
